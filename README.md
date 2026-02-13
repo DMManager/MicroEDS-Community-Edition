@@ -1,6 +1,6 @@
-=====================================
+
 MicroEDS – Community Edition: Version 1.0.8
-=====================================
+
 
 Real-Time Edge Anomaly Detection for Sensor Streams
 MicroEDS is an Event Detection System (EDS) that uses unsupervised machine learning to detect anomalous events in real-time data.
