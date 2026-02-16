@@ -106,16 +106,15 @@ It is fully functional but has a limited runtime.
 Restarting the application re-enables the demo.
 Follow the instructions in the user manual to get a full community license for free.
 
-=====================================
-Main Capabilities
-=====================================
+# Main Capabilities
+
 
 - Monitoring
 - Real-time dashboard  
 - Data table  
 - Line/histogram / correlation charts  
 
-Detection
+### Detection
 - Abnormal combinations  
 - Out-of-range values  
 - Fixed values  
@@ -123,25 +122,25 @@ Detection
 - Communication failures  
 - Trends
 
-Analytics
+### Analytics
 - density tables  
 - heat maps  
 - similarity scoring  
 
-Event Management
+### Event Management
 - pending/triggered  
 - severity  
 - duration  
 - history  
 
-Integration
+### Integration
 - CSV  
 - Modbus  
 - TCP  
 - MSMQ export  
 
 
-Data Sources
+### Data Sources
 
 MicroEDS can ingest data from:
 
@@ -152,7 +151,7 @@ MicroEDS can ingest data from:
 Only one input method may be active at a time.
 
 
-Outputs
+### Outputs
 
 - Real-time alarms  
 - Validation reports  
@@ -161,7 +160,7 @@ Outputs
 - MSMQ messages  
 
 
-Model Components
+### Model Components
 
 A model contains:
 
@@ -171,11 +170,8 @@ A model contains:
 - Parameters  
 - Versions  
 
-Editing is done in **Pause** mode.
 
-
-
-Typical Workflow
+# Typical Workflow
 
 1. Run demo  
 2. Understand variables  
@@ -191,7 +187,7 @@ Safety Notice
 Always test MicroEDS in a lab environment before using real operational data.
 
 
-Minimum Hardware (SBC)
+# Minimum Hardware (SBC)
 
 - Raspberry Pi 4  
 - 4GB RAM  
@@ -200,7 +196,7 @@ Minimum Hardware (SBC)
 More powerful hardware → better performance.
 
 
-License
+# License
 
 MicroEDS Community Edition is provided under a limited license.
 
@@ -217,7 +213,7 @@ You may not:
 For commercial deployment, a paid license is required.
 
 
-Support
+# Support
 
 Community users can:
 
@@ -237,11 +233,11 @@ Commercial editions provide:
 - advanced integrations  
 - priority support  
 
-Contact:  
+### Contact:  
 admin@decisionmakers.biz**
 
 
-For additional information contact
+# For additional information contact
 
 Decision Makers Ltd  
 http://www.decisionmakersltd.com
