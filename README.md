@@ -16,17 +16,17 @@ Designed for edge environments, it runs on:
 The Community Edition is distributed as a binary package.
 
 
-=====================================
-How MicroEDS may reduce IoT costs
-=====================================
+
+# How MicroEDS may reduce IoT costs
+
 
 
 MicroEDS runs anomaly detection directly on the edge device, next to the sensors. Instead of streaming massive volumes of raw data to the cloud, only meaningful events and summarised information are transmitted. This dramatically reduces bandwidth consumption, cloud storage costs, and processing expenses, while also enabling faster response times and continued operation even during network outages. By filtering noise locally and escalating only what matters, MicroEDS turns expensive, always-connected IoT architectures into efficient, scalable, and cost-controlled systems.
 
 
-=====================================
-Why MicroEDS
-=====================================
+
+# Why MicroEDS
+
 ✔ Detect abnormal combinations  
 ✔ Detect sudden jumps & drifts  
 ✔ Learn normal behaviour automatically  
