@@ -37,9 +37,9 @@ MicroEDS runs anomaly detection directly on the edge device, next to the sensors
 
  
 
-=====================================
-What Is an Event?
-=====================================
+
+# What Is an Event?
+
 An event is an abnormal combination of sensor values which hints for pending problem. identified by the model.
 
 
