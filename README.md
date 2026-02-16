@@ -44,10 +44,8 @@ An event is an abnormal combination of sensor values which hints for pending pro
 
 
 
+# MicroEDS continuously:
 
-=====================================
-MicroEDS continuously:
-=====================================
 
 
 1. Reads raw data  
@@ -57,9 +55,9 @@ MicroEDS continuously:
 5. Sends alerts if needed  
 
 
-=====================================
-Example Environments
-=====================================
+
+# Example Environments
+
 
 MicroEDS may be deployed on:
 
@@ -73,25 +71,25 @@ MicroEDS may be deployed on:
 - BeagleY AI  
  
 
-=====================================
-Quick Start
-=====================================
 
-Step 1 – Download
+# Quick Start
+
+
+### Step 1 – Download
 Go to **Releases** and download the latest `microeds-ce.zip`.
 
-Step 2 - Extract
+### Step 2 - Extract
 Windows - Extract the content of the zip file into a directory c:\eds-sbc
 Linox        - Create user named  eds-sbc
                     Extract the content of the zip file into a directory home/eds-sbc
                     Make the eds-sbc user the owner of the eds-sbc directory and all its sub-directories.
 
 
-Step 3 – Run 
+### Step 3 – Run 
 java -jar EDS-SBC.jar
 
 
-Step 4 – Use Demo Database
+### Step 4 – Use Demo Database
 The package includes a demo model so you can immediately see:
 - dashboards  
 - alarms  
@@ -99,9 +97,8 @@ The package includes a demo model so you can immediately see:
 - charts  
 
 
-=====================================
-Demo License
-=====================================
+
+# Demo License
 
 The Community Edition runs with a demo license.
 
