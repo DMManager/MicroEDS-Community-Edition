@@ -1,7 +1,6 @@
 
-===========================================
-<b>MicroEDS – Community Edition: Version 1.0.8<b>
-===========================================
+# MicroEDS – Community Edition: Version 1.0.8
+
 
 
 Real-Time Edge Anomaly Detection for Sensor Streams
